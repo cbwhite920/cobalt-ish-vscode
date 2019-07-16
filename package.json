@@ -1,0 +1,21 @@
+{
+    "name": "cobalt-ish",
+    "displayName": "Cobalt-ish",
+    "description": "Wes Bos' Cobalt2 with text color customizations",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobalt-ish",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobalt-ish-color-theme.json"
+            }
+        ]
+    }
+}
