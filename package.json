@@ -14,7 +14,7 @@
             {
                 "label": "Cobalt-ish",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Cobalt-ish-color-theme.json"
+                "path": "./Cobalt-ish-color-theme.json"
             }
         ]
     }
